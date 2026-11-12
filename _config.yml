@@ -256,6 +256,9 @@ exclude:
   - _pages/people.md
   - _pages/books.md
   - _pages/dropdown.md
+  - _news/announcement_*.md
+  - _posts/201*
+  - _posts/202[0-5]-*
 keep_files:
   - CNAME
   - .nojekyll
