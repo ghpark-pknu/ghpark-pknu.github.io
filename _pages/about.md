@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 국립부경대학교 컴퓨터/인공지능공학부 <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 국립부경대학교 컴퓨터/인공지능공학부 
 
 profile:
   align: right
@@ -27,8 +27,12 @@ latest_posts:
 
 안녕하세요! 부경대 컴퓨터 공학부 재학 중인 박근호입니다. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 관심 분야
+- 오픈소스 소프트웨어
+- 백엔드 개발 (Java, Spring Boot)
+- 서버 개발(C, Linux)
+- 데이터베이스 관리(SQL)
+- 네트워크 프로그래밍
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## 기술 스택
+'Git' 'Java' 'Python' 'C' 'SQL'
