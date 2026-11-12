@@ -1,3 +1,14 @@
+cv:
+  name: Geun Ho Park
+  location: Busan, Korea
+  email: rmugh6422@naver.com
+  website: https://ghpark-pknu.github.io
+  summary: A PKNU student, studying computer engineering
+
+  social_networks:
+    - network: GitHub
+      username: ghpark-pknu
+
   sections:
     Education:
       - institution: Pukyong National University
@@ -43,6 +54,6 @@
         icon: fa-solid fa-database
 
     References:
-      - name: Professor Seung Ho, Yoo
+      - name: Professor Seung Ho Yoo
         reference: Opensource Software
         icon: fa-solid fa-computer
