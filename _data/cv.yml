@@ -1,17 +1,6 @@
-cv:
-  name: Geun Ho, Park 
-  location: Busan, Korea
-  email: rmugh6422@naver.com
-  website: https://ghpark-pknu.github.io
-  summary: A PKNU student, studying computer engineering 
-
-  social_networks:
-    - network: GitHub
-      username: ghpark-pknu
-
   sections:
     Education:
-      - institution: Pukyoung National University
+      - institution: Pukyong National University
         location: Busan, Korea
         url: https://www.pknu.ac.kr
         area: Computer Engineering
@@ -20,8 +9,9 @@ cv:
         end_date: Present
 
     Skills:
-      - label: Languages
-        details: Java, Python, C, SQL
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: ["Java", "Python", "C", "SQL"]
 
     Languages:
       - name: Korean
@@ -31,11 +21,11 @@ cv:
         summary: Keep Studying
 
     Interests:
-      - name: Mathematics & Computer Engineering 
-        keywords: #Open source  #Network  #System Programming  #Database
-        icon: fa-tag
-        
-        Certificates:
+      - name: Mathematics & Computer Engineering
+        icon: fa-solid fa-tag
+        keywords: ["Open Source", "Network", "System Programming", "Database"]
+
+    Certificates:
       - name: Open Source Software
         issuer: "Git·GitHub 기반 버전 관리와 협업(브랜치, PR), 오픈소스 라이선스, GitHub Actions·Pages를 활용한 자동 배포"
         icon: fa-brands fa-github
@@ -55,4 +45,4 @@ cv:
     References:
       - name: Professor Seung Ho, Yoo
         reference: Opensource Software
-        icon: fa-solid fa-computer 
+        icon: fa-solid fa-computer
