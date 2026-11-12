@@ -6,7 +6,7 @@ subtitle: 국립부경대학교 컴퓨터/인공지능공학부
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_image.png
   image_circular: false # crops the image to make it circular
 
 
