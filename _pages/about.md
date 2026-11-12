@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Busan, Korea</p>
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,6 +26,7 @@ latest_posts:
 
 안녕하세요! 부경대 컴퓨터 공학부 재학 중인 박근호입니다. 
 
+
 ## 관심 분야
 - 오픈소스 소프트웨어
 - 백엔드 개발 (Java, Spring Boot)
@@ -34,5 +34,6 @@ latest_posts:
 - 데이터베이스 관리(SQL)
 - 네트워크 프로그래밍
 
+
 ## 기술 스택
-'Git' 'Java' 'Python' 'C' 'SQL'
+Git  /  Java  /  Python  /  C  /  SQL
